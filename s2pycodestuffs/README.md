@@ -1,4 +1,4 @@
-#s2py Code
+# s2py Code
 
 for those who don't know, s2py is a scratch api that runs on python (i think).
 
