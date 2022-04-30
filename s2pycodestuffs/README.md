@@ -7,3 +7,5 @@ files:
 s2py_getScratcherInfo ------ Gets info of an inputted scratcher. when prompted, use s2py commands like getMessages() or getBio().
 
 s2py_TimeFinder(TZ) -------- Gets time based off of timezone input
+
+s2py_TimeFinder(city) -------- Gets time based off of city input. ex: Dhaka, Dallas
